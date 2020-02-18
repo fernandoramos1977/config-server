@@ -10,3 +10,4 @@
 =======
 4. Devops: Arquitetura, Pipeline e Monitoração
 >>>>>>> inclusão devops branch feature-devops
+5. Arquitetura: Microserviços para desacoplar código
